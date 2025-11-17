@@ -36,6 +36,15 @@ https://www.credly.com/badges/33fdb4ac-695c-4781-bd3c-8be49d7b495d/public_url
 AWS Educate Getting Started with Cloud Ops - Training Badge
 https://www.credly.com/badges/7ba64221-f81e-46a0-9051-e00e1ecddc0e/public_url
 
+**GOOGLE**
+Introduction to Generative AI - https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15114408
+Introduction to Large Language Models - https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15115375
+Introduction to Responsible AI - https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15116257
+Responsible AI: Applying AI Principles with Google Cloud - https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15174491
+Introduction to Image Generation - https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15116821
+Create Image Captioning Models - https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15173012
+Encoder-Decoder Architecture - https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15117284
+Transformer Models and BERT Model - https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15172750
 
  **Udemy**
 Java Fundamentals Course For Beginners -  https://www.udemy.com/certificate/UC-6aba9696-1f47-46ab-bb51-7467f5528eb2/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
