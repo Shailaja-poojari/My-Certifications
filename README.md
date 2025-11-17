@@ -46,6 +46,19 @@ Create Image Captioning Models - https://www.skills.google/public_profiles/2c6ca
 Encoder-Decoder Architecture - https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15117284
 Transformer Models and BERT Model - https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15172750
 
+**MICROSOFT**
+Microsoft Azure AI Fundamentals: AI Overview - https://learn.microsoft.com/api/achievements/share/en-in/shailajapoojary-3879/W224SMAN?sharingId=CB6313F531DA5873
+Fundamentals of Azure AI services - https://learn.microsoft.com/api/achievements/share/en-in/shailajapoojary-3879/NVVK5QAF?sharingId=CB6313F531DA5873
+Introduction to machine learning -https://learn.microsoft.com/api/achievements/share/en-in/shailajapoojary-3879/VJJC9S5M?sharingId=CB6313F531DA5873
+Fundamental AI Concepts - https://learn.microsoft.com/api/achievements/share/en-in/shailajapoojary-3879/D99NARYJ?sharingId=CB6313F531DA5873
+Introduction to generative AI - https://learn.microsoft.com/api/achievements/share/en-in/shailajapoojary-3879/BCCWA2HD?sharingId=CB6313F531DA5873
+Describe Microsoft Security Copilot - https://learn.microsoft.com/api/achievements/share/en-in/shailajapoojary-3879/YEEJCZZR?sharingId=CB6313F531DA5873
+Describe the core features of Microsoft Security Copilot - https://learn.microsoft.com/api/achievements/share/en-in/shailajapoojary-3879/E55UXLEP?sharingId=CB6313F531DA5873
+
+
+
+
+
  **Udemy**
 Java Fundamentals Course For Beginners -  https://www.udemy.com/certificate/UC-6aba9696-1f47-46ab-bb51-7467f5528eb2/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
 
