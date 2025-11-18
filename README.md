@@ -46,3 +46,5 @@ Skills: Akamai, Cloud Applications, Cloud Computing, Cloud Infrastructure
 
 **Udemy**
 **Java Fundamentals Course For Beginners** - https://www.udemy.com/certificate/UC-6aba9696-1f47-46ab-bb51-7467f5528eb2/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
+**IBM**
+**Python for Data Science** - https://www.credly.com/badges/df01181c-ae3d-4b6b-8112-1855b5998e7a/public_url
