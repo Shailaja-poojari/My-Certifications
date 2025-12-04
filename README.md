@@ -108,6 +108,6 @@ Udemy
 Java Fundamentals Course for Beginners
 https://www.udemy.com/certificate/UC-6aba9696-1f47-46ab-bb51-7467f5528eb2/
 
-IBM (Additional)
+IBM 
 
-Python for Data Science
+Python for Data Science - https://www.credly.com/badges/df01181c-ae3d-4b6b-8112-1855b5998e7a/public_url
