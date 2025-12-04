@@ -1,12 +1,16 @@
 **My Certifications**
 **Credly Profile** - https://www.credly.com/users/shailaja-poojary
 
+----
+
 **Akamai**
 
 Akamai Cloud Computing Foundations Certification
 https://www.credly.com/badges/6b3ffd84-9271-4ed8-88d6-e9806728c82a/public_url
 
 Skills: Akamai, Cloud Applications, Cloud Computing, Cloud Infrastructure
+
+----
 
 **Oracle**
 
@@ -15,6 +19,8 @@ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 Fundamental Concepts of Artificial Intelligence (AI) and Machine Learning (ML)
 https://catalog-education.oracle.com/ords/certview/sharebadge?id=5256719CD9997416DADFF8759B9309CE7200385D226C73046B5A39FE9C06BD45
 
+-----
+
 **IBM Z Day 2025**
 
 AI & Data
@@ -22,6 +28,8 @@ https://www.credly.com/badges/8ce0ac7b-fadc-4f01-b54e-530aa2c7d768/public_url
 
 Security
 https://www.credly.com/badges/6b445f82-cba8-4d04-8399-6198b09d650b/public_url
+
+----
 
 **AWS Educate**
 
@@ -52,6 +60,8 @@ https://www.credly.com/badges/33fdb4ac-695c-4781-bd3c-8be49d7b495d/public_url
 Getting Started with Cloud Ops – Training Badge
 https://www.credly.com/badges/7ba64221-f81e-46a0-9051-e00e1ecddc0e/public_url
 
+----
+
 **Google**
 
 Introduction to Generative AI
@@ -78,6 +88,8 @@ https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/b
 Transformer Models and BERT Model
 https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/badges/15172750
 
+----
+
 **Microsoft**
 
 Microsoft Azure AI Fundamentals: AI Overview
@@ -101,10 +113,14 @@ https://learn.microsoft.com/api/achievements/share/en-in/shailajapoojary-3879/YE
 Describe the Core Features of Microsoft Security Copilot
 https://learn.microsoft.com/api/achievements/share/en-in/shailajapoojary-3879/E55UXLEP?sharingId=CB6313F531DA5873
 
+----
+
 **Udemy**
 
 Java Fundamentals Course for Beginners
 https://www.udemy.com/certificate/UC-6aba9696-1f47-46ab-bb51-7467f5528eb2/
+
+----
 
 **IBM** 
 
