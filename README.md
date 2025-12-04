@@ -5,7 +5,7 @@
 
 **Akamai**
 
-Akamai Cloud Computing Foundations Certification
+⭐Akamai Cloud Computing Foundations Certification
 https://www.credly.com/badges/6b3ffd84-9271-4ed8-88d6-e9806728c82a/public_url
 
 Skills: Akamai, Cloud Applications, Cloud Computing, Cloud Infrastructure
@@ -92,7 +92,7 @@ https://www.skills.google/public_profiles/2c6ca71b-6d2f-44d3-8064-bffd933cbccd/b
 
 **Microsoft**
 
-Microsoft Azure AI Fundamentals: AI Overview
+⭐Microsoft Azure AI Fundamentals: AI Overview
 https://learn.microsoft.com/api/achievements/share/en-in/shailajapoojary-3879/W224SMAN?sharingId=CB6313F531DA5873
 
 Fundamentals of Azure AI Services
