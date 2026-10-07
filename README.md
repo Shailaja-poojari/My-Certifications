@@ -23,9 +23,13 @@ https://catalog-education.oracle.com/ords/certview/sharebadge?id=5256719CD999741
 
 **AI tools workshop** https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971457585
 
-**Claude** 
-Introduction to Claude Cowork - https://academy.claude.com/verify/cdc642ffecf78dbb7e30a60ebcd64e9f 
-Building with the Claude API - https://academy.claude.com/verify/5e596b149f8dfc53097b9aff1ffacada
+**Claude**
+
+Introduction to Claude Cowork - 
+https://academy.claude.com/verify/cdc642ffecf78dbb7e30a60ebcd64e9f
+
+Building with the Claude API - 
+https://academy.claude.com/verify/5e596b149f8dfc53097b9aff1ffacada
 
 -----
 
